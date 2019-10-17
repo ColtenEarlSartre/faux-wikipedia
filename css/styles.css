@@ -1,3 +1,11 @@
 .sidebar {
   position: fixed;
 }
+
+/* img.main {
+  float:right;
+} */
+
+p {
+  float: right;
+}
